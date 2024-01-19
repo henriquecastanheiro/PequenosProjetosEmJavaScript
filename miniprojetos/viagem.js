@@ -1,3 +1,5 @@
+/*Exercicio01*/
+
 // const valorDaGasolina = 5.29;
 // const kmPorLitro = 14.5;
 // const distanciaDaViagem = 80;
@@ -6,7 +8,9 @@
 // const valorViagem = litrosconsumidos * valorDaGasolina;
 
 // console.log(valorViagem);
-<!--rgegejrge--!>
+
+/*Exercicio02*/
+
 // const numero = 7;
 // const numeroalt = numero % 2 === 0;
 
@@ -26,6 +30,8 @@
 // const gastoViagem = litrosConsumidos * tipoDeCombustivel;
 // console.log(gastoViagem);
 
+/*Exercicio03*/
+
 // const valorGasolina = 5.79;
 // const valorEtanol = 5.19;
 // const kmPorLitro = 14.5;
@@ -41,6 +47,8 @@
 //   const gastoViagem = valorEtanol * litrosConsumidos;
 //   console.log("Vocé irá gastar com etanol:", gastoViagem.toFixed(2));
 // }
+
+/*Exercicio04*/
 
 let nota1 = 7;
 let nota2 = 7;
